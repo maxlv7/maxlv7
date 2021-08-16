@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 😀 Good morning, and in case I don't see you: Good afternoon, good evening, and good night!
+### Good morning, and in case I don't see you: Good afternoon, good evening, and good night! 😀 
 
 <!--
 **maxlv7/maxlv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
